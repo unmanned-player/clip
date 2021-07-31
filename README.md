@@ -3,7 +3,7 @@
 CLI is a source-only library for parsing command-line arguments in C or perhaps
 even C++. It parses POSIX and GNU styled switches, it's fast, terse yet doesn't
 skimp on features. CLIP is written in ISO C-89/90 and should work on any
-reasonably standards compliant C compiler. Copy `cli.h` and `cli.c` into your
+reasonably standards compliant C compiler. Copy `clip.h` and `clip.c` into your
 source tree and include the header file in the place where command-line is
 parsed. Usually, this is in the source file where `main()` function is. In the
 `main()` function or wherever command line is parsed, invoke `cli_parse()` once
