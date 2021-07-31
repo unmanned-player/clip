@@ -184,6 +184,6 @@ examples.
 
 ## License, contributions, blames
 
-This project is released under MIT license. The project can be nominally found
+This project is released under ISC license. The project can be nominally found
 at [GitLab](https://gitlab.com/unmdplyr/clip). Please report issues or raise
 feature requests or contributions there.
